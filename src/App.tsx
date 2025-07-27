@@ -81,7 +81,7 @@ function App() {
 
       <footer className="app-footer">
         <p>
-          Built with ❤️ using React, TypeScript & Vite
+          made by KOSA ❤️ using React, TypeScript & Vite
         </p>
       </footer>
     </div>
